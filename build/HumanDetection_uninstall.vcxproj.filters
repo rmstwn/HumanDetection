@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rmstw\OneDrive\TMU\Classes\Ubiquitous Robotics\HumanDetection\build\CMakeFiles\42fb0ec13b83723ec56840371946560c\HumanDetection_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\rmstw\OneDrive\TMU\Classes\Ubiquitous Robotics\HumanDetection\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\rmstw\OneDrive\TMU\Classes\Ubiquitous Robotics\HumanDetection\build\CMakeFiles\HumanDetection_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CAD83EB0-CCAB-313B-B49D-141B96A6696B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rmstw\OneDrive\TMU\Classes\Ubiquitous Robotics\HumanDetection\build\CMakeFiles\e13e5f94e11bd52885fea5626f366795\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CAD83EB0-CCAB-313B-B49D-141B96A6696B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
